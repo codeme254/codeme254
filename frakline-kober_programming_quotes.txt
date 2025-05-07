@@ -34,7 +34,7 @@
 
 18. Fix the cause, not the symptom. – Steve Maguire
 
-19. optimism is an occupational hazard of programming: feedback is the treatment.  Kent Beck
+19. optimism is an occupational hazard of programming: feedback is the treatment.  Kent Beck  
 
 20. When to use iterative development? You should use iterative development only on projects that you want to succeed.– Martin Fowler
 
